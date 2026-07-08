@@ -2,13 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE) [![CI](https://github.com/GunnarMUC/kimi-token-counter/actions/workflows/ci.yml/badge.svg)](https://github.com/GunnarMUC/kimi-token-counter/actions) [![Node](https://img.shields.io/badge/Node-%E2%89%A520-green)](https://nodejs.org)
 
-[![Node](https://img.shields.io/badge/Node-%E2%89%A520-green)](https://nodejs.org)
-
 **Zero-dependency Kimi API token usage tracker & live terminal dashboard.**
 
 Tracks every Kimi API call in real time — token counts, costs, cache hits, and span markers. 100% local. No API key leaves your machine.
-
----
 
 ## Quick Start
 
